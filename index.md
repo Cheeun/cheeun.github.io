@@ -7,8 +7,8 @@ title: Cheeun Hong
 
 **Ph.D candidate** \
 **Affiliation**: Department of ECE, Seoul National University (SNU), Seoul, Korea \
-**Email**: cheeun0914(at)gmail(dot)com, cheeun914(at)snu(dot)ac(dot)kr \
-**Google scholar**: [profile]()
+**Email**: cheeun0914@gmail.com, cheeun914@snu.ac.kr \
+**Google scholar**: [profile](https://scholar.google.com/citations?user=HHjMKhIAAAAJ&hl=ko&oi=ao)
 
 I am a Ph.D student majoring in computer vision at SNU computer vision lab, advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/).
 
@@ -26,6 +26,10 @@ My research topics also include network optimization and acceleration to handle 
   -  **Cheeun Hong***, Heewon Kim*, Sungyong Baik, Junghun Oh, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks."
   - Code and demo will be released soon.
 
+<!-- were awarded ‘The Best Paper Award’ at IPIU 2021 -->
+<!-- Our lab members were awarded ‘The Best Paper Award’ at IPIU 2021 (33rd Workshop on Image Processing and Image Understanding).
+silver prize -->
+
 <!-- - Our paper got accepted to **IEEE TPAMI** (_IF 16.39_)!
   - **Sanghyun Son***, Jaeha Kim*, Wei-Sheng Lai, Ming-Hsuan Yang, and Kyoung Mu Lee, "Toward Real-World Super-Resolution via Adaptive Downsampling Models."
   - Code and demo will be released soon.
@@ -42,7 +46,16 @@ My research topics also include network optimization and acceleration to handle 
 - Sanghyun have implemented an efficient bicubic resizing algorithm in PyTorch that is compatible with the MATLAB reference. Please check it from [here](https://github.com/sanghyun-son/bicubic_pytorch). -->
 
 
-## Awards and Honors
+
+## **Publications**
+
+
+
+ **Cheeun Hong***, Heewon Kim*, Sungyong Baik, Junghun Oh, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks," Winter Conference on Applications of Computer Vision (**WACV**), 2022.
+ [[PDF](https://cv.snu.ac.kr/publication/conf/2022/wacv2022_daq.pdf)]
+
+
+ ## **Awards and Honors**
 
 <!-- - **Highly cited paper award**: Department of ECE, Seoul National University, 2018.
 - **Challenge winner & Workshop best paper award**: NTIRE 2017 Challenge on Single Image Super-Resolution, 2017.
