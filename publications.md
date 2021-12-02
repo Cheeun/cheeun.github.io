@@ -4,7 +4,12 @@ layout: default
 
 ## **Publications**
 
-- Geonwoon Jang, Wooseok Lee, **Sanghyun Son**, and Kyoung Mu Lee, "C2N: Practical Generative Noise Modeling for Real-World Denoising," Proc. International Conference on Computer Vision
+
+
+ **Cheeun Hong***, Heewon Kim*, Sungyong Baik, Junghun Oh, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks," Winter Conference on Applications of Computer Vision (**WACV**), 2022.
+ [[PDF](https://cv.snu.ac.kr/publication/conf/2022/wacv2022_daq.pdf)]
+
+<!-- - Geonwoon Jang, Wooseok Lee, **Sanghyun Son**, and Kyoung Mu Lee, "C2N: Practical Generative Noise Modeling for Real-World Denoising," Proc. International Conference on Computer Vision
 (**ICCV**), 2021.
 
 - **Sanghyun Son** and Kyoung Mu Lee,
@@ -43,10 +48,10 @@ Proc. European Conference on Computer Vision (**ECCV**), 2018.
 (**Challenge Winners, Workshop Best Paper**)
 [[PDF](https://cv.snu.ac.kr/publication/conf/2017/EDSR.pdf)]
 [[code (Torch7)](https://github.com/LimBee/NTIRE2017)]
-[[code (PyTorch)](https://github.com/sanghyun-son/EDSR-PyTorch)]
+[[code (PyTorch)](https://github.com/sanghyun-son/EDSR-PyTorch)] -->
 
 
-## **Challenge Reports and Dataset**
+<!-- ## **Challenge Reports and Dataset**
 
 - **Sanghyun Son**, Suyoung Lee, Seungjun Nah, Radu Timofte, and Kyoung Mu Lee,
 "NTIRE 2021 Challenge on Video Super-Resolution,"
@@ -74,6 +79,6 @@ Proc. European Conference on Computer Vision (**ECCV**), 2018.
 - Seungjun Nah, Sungyong Baik, Seokil Hong, Gyeongsik Moon, **Sanghyun Son**, Radu Timofte, and Kyoung Mu Lee,
 "NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study,"
 **NTIRE 2019** workshop in conjunction with **CVPR**, 2019.
-[[PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.pdf)]
+[[PDF](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Deblurring_and_Super-Resolution_Dataset_and_CVPRW_2019_paper.pdf)] -->
 
 [back](./)

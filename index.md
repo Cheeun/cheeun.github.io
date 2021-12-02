@@ -1,32 +1,32 @@
 ---
 layout: default
-title: Sanghyun Son
+title: Cheeun Hong
 ---
 
-# [Publications](./publications.html) | [CV](https://cv.snu.ac.kr/sanghyun_son/sanghyun_son_cv.pdf)
+# [Publications](./publications.html) | [CV]()
 
 **Ph.D candidate** \
 **Affiliation**: Department of ECE, Seoul National University (SNU), Seoul, Korea \
-**Email**: sonsang35(at)gmail(dot)com, thstkdgus35(at)snu(dot)ac(dot)kr \
-**Google scholar**: [profile](https://scholar.google.co.kr/citations?user=nWaSdu0AAAAJ)
+**Email**: cheeun0914(at)gmail(dot)com, cheeun914(at)snu(dot)ac(dot)kr \
+**Google scholar**: [profile]()
 
 I am a Ph.D student majoring in computer vision at SNU computer vision lab, advised by [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/index.php/kmlee/).
 
 
 ## **Research Interests**
 
-I am interested in deep learning and low-level image restoration problems, especially **image super-resolution** and **deblurring**.
+I am interested in deep learning and low-level image restoration problems, especially **image super-resolution**.
 Recently I mainly working on reconstructing high-resolution images from real-world inputs.
 My research topics also include network optimization and acceleration to handle practical issues in deep learning.
 
 
 ## **News**
 
-- One paper got accepted to **[ICCV 2021](http://iccv2021.thecvf.com/home)**!
-  - Geonwoon Jang, Wooseok Lee, **Sanghyun Son**, and Kyoung Mu Lee, "C2N: Practical Generative Noise Modeling for Real-World Denoising."
+- One paper got accepted to **[WACV 2022](http://wacv2022.thecvf.com/home)**!
+  -  **Cheeun Hong***, Heewon Kim*, Sungyong Baik, Junghun Oh, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks."
   - Code and demo will be released soon.
 
-- Our paper got accepted to **IEEE TPAMI** (_IF 16.39_)!
+<!-- - Our paper got accepted to **IEEE TPAMI** (_IF 16.39_)!
   - **Sanghyun Son***, Jaeha Kim*, Wei-Sheng Lai, Ming-Hsuan Yang, and Kyoung Mu Lee, "Toward Real-World Super-Resolution via Adaptive Downsampling Models."
   - Code and demo will be released soon.
 
@@ -39,11 +39,11 @@ My research topics also include network optimization and acceleration to handle 
   - **Video Super-Resolution** Track 1. Spatial, Track 2. Spatio-Temporal.
   - Detailed challenge reports will be presented in the upcoming NTIRE 2021 workshop.
 
-- I have implemented an efficient bicubic resizing algorithm in PyTorch that is compatible with the MATLAB reference. Please check it from [here](https://github.com/sanghyun-son/bicubic_pytorch).
+- Sanghyun have implemented an efficient bicubic resizing algorithm in PyTorch that is compatible with the MATLAB reference. Please check it from [here](https://github.com/sanghyun-son/bicubic_pytorch). -->
 
 
 ## Awards and Honors
 
-- **Highly cited paper award**: Department of ECE, Seoul National University, 2018.
+<!-- - **Highly cited paper award**: Department of ECE, Seoul National University, 2018.
 - **Challenge winner & Workshop best paper award**: NTIRE 2017 Challenge on Single Image Super-Resolution, 2017.
-- **Graduated with _summa cum laude_**: B.S. in Department of ECE, Seoul National University, 2017.
+- **Graduated with _summa cum laude_**: B.S. in Department of ECE, Seoul National University, 2017. -->
