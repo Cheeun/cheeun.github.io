@@ -3,7 +3,7 @@ layout: default
 title: Cheeun Hong
 ---
 
-# [Publications](./publications.html) | [CV]()
+# [Publications](./publications.html) | [CV](https://drive.google.com/file/d/1HsH8TLmMjo_BscmbVb6y2LUzPFCmSeMW/view?usp=sharing)
 
 **Ph.D candidate** \
 **Affiliation**: Department of ECE, Seoul National University (SNU), Seoul, Korea \
@@ -15,16 +15,14 @@ I am a Ph.D student majoring in computer vision at SNU computer vision lab, advi
 
 ## **Research Interests**
 
-I am interested in deep learning and low-level image restoration problems, especially **image super-resolution**.
-Recently I mainly working on reconstructing high-resolution images from real-world inputs.
-My research topics also include network optimization and acceleration to handle practical issues in deep learning.
+I am interested in efficient deep learning and **low-level image restoration** problems, such as image super-resolution, to handle practical issues in deep learning.
+Recently I am mainly working on designing lightweight networks for low-level image restoration problems with network optimization and acceleration techniques, especially **quantization**.
 
-
-## **News**
+<!-- ## **News**
 
 - One paper got accepted to **[WACV 2022](http://wacv2022.thecvf.com/home)**!
   -  **Cheeun Hong***, Heewon Kim*, Sungyong Baik, Junghun Oh, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks."
-  - Code and demo will be released soon.
+  - Code and demo will be released soon. -->
 
 <!-- were awarded ‘The Best Paper Award’ at IPIU 2021 -->
 <!-- Our lab members were awarded ‘The Best Paper Award’ at IPIU 2021 (33rd Workshop on Image Processing and Image Understanding).
@@ -49,13 +47,16 @@ silver prize -->
 
 ## **Publications**
 
+**Cheeun Hong**, Sungyong Baik, Heewon Kim, Seungjun Nah, and Kyoung Mu Lee, “Contents-Aware Dynamic Quantization for Image Super-Resolution,” European Conference on Computer Vision (**ECCV**), 2022.
 
+Junghun Oh, Heewon Kim, Seungjun Nah, **Cheeun Hong**, Jonghyun Choi, and Kyoung Mu Lee,"Attentive Fine-Grained Structured Sparsity for Image Restoration," Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
 
  **Cheeun Hong***, Heewon Kim*, Sungyong Baik, Junghun Oh, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks," Winter Conference on Applications of Computer Vision (**WACV**), 2022.
- [[PDF](https://cv.snu.ac.kr/publication/conf/2022/wacv2022_daq.pdf)]
+ [[PDF](https://cv.snu.ac.kr/publication/conf/2022/wacv2022_daq.pdf)] [[github]] [[youtube]]
 
+Junghun Oh, Heewon Kim, Sungyong Baik, **Cheeun Hong**, and Kyoung Mu Lee, "Batch Normalization Tells You Which Filter is Important", Winter Conference on Applications of Computer Vision (**WACV**), 2022.
 
- ## **Awards and Honors**
+## **Awards and Honors**
 
 <!-- - **Highly cited paper award**: Department of ECE, Seoul National University, 2018.
 - **Challenge winner & Workshop best paper award**: NTIRE 2017 Challenge on Single Image Super-Resolution, 2017.
