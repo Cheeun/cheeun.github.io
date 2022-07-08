@@ -3,7 +3,8 @@ layout: default
 title: Cheeun Hong
 ---
 
-# [Publications](./publications.html) | [CV](https://drive.google.com/file/d/1HsH8TLmMjo_BscmbVb6y2LUzPFCmSeMW/view?usp=sharing)
+<!-- # [Publications](./publications.html) | [CV](https://drive.google.com/file/d/1HsH8TLmMjo_BscmbVb6y2LUzPFCmSeMW/view?usp=sharing) -->
+# [CV](https://drive.google.com/file/d/1HsH8TLmMjo_BscmbVb6y2LUzPFCmSeMW/view?usp=sharing)
 
 **Ph.D candidate** \
 **Affiliation**: Department of ECE, Seoul National University (SNU), Seoul, Korea \
@@ -50,14 +51,17 @@ silver prize -->
 **Cheeun Hong**, Sungyong Baik, Heewon Kim, Seungjun Nah, and Kyoung Mu Lee, “Contents-Aware Dynamic Quantization for Image Super-Resolution,” European Conference on Computer Vision (**ECCV**), 2022.
 
 Junghun Oh, Heewon Kim, Seungjun Nah, **Cheeun Hong**, Jonghyun Choi, and Kyoung Mu Lee,"Attentive Fine-Grained Structured Sparsity for Image Restoration," Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
+[[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_Attentive_Fine-Grained_Structured_Sparsity_for_Image_Restoration_CVPR_2022_paper.pdf)]
 
  **Cheeun Hong***, Heewon Kim*, Sungyong Baik, Junghun Oh, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks," Winter Conference on Applications of Computer Vision (**WACV**), 2022.
- [[PDF](https://cv.snu.ac.kr/publication/conf/2022/wacv2022_daq.pdf)] [[github]] [[youtube]]
+ [[PDF](https://cv.snu.ac.kr/publication/conf/2022/wacv2022_daq.pdf)] [[GitHub](https://github.com/Cheeun/DAQ-pytorch)] [[YouTube](https://youtu.be/vMVu_Eao9yY)]
 
 Junghun Oh, Heewon Kim, Sungyong Baik, **Cheeun Hong**, and Kyoung Mu Lee, "Batch Normalization Tells You Which Filter is Important", Winter Conference on Applications of Computer Vision (**WACV**), 2022.
+[[PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Hong_DAQ_Channel-Wise_Distribution-Aware_Quantization_for_Deep_Image_Super-Resolution_Networks_WACV_2022_paper.pdf)]
 
 ## **Awards and Honors**
 
-<!-- - **Highly cited paper award**: Department of ECE, Seoul National University, 2018.
-- **Challenge winner & Workshop best paper award**: NTIRE 2017 Challenge on Single Image Super-Resolution, 2017.
-- **Graduated with _summa cum laude_**: B.S. in Department of ECE, Seoul National University, 2017. -->
+<!-- - **Highly cited paper award**: Department of ECE, Seoul National University, 2018. -->
+<!-- - **Challenge winner & Workshop best paper award**: NTIRE 2017 Challenge on Single Image Super-Resolution, 2017. -->
+<!-- - **Graduated with _summa cum laude_**: B.S. in Department of ECE, Seoul National University, 2017. -->
+- **The Best Paper Award (Silver Prize)** at IPIU 2021 (33rd Workshop on Image Processing and Image Understanding).
