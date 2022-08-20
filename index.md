@@ -48,10 +48,11 @@ silver prize -->
 
 ## **Publications**
 
-**Cheeun Hong**, Sungyong Baik, Heewon Kim, Seungjun Nah, and Kyoung Mu Lee, “Contents-Aware Dynamic Quantization for Image Super-Resolution,” European Conference on Computer Vision (**ECCV**), 2022.
+**Cheeun Hong**, Sungyong Baik, Heewon Kim, Seungjun Nah, and Kyoung Mu Lee, “CADyQ: Content-Aware Dynamic Quantization for Image Super-Resolution,” European Conference on Computer Vision (**ECCV**), 2022. [[PDF](https://arxiv.org/abs/2207.10345)] [[GitHub](https://github.com/Cheeun/CADyQ)]
 
 Junghun Oh, Heewon Kim, Seungjun Nah, **Cheeun Hong**, Jonghyun Choi, and Kyoung Mu Lee,"Attentive Fine-Grained Structured Sparsity for Image Restoration," Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.
-[[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_Attentive_Fine-Grained_Structured_Sparsity_for_Image_Restoration_CVPR_2022_paper.pdf)]
+[[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Oh_Attentive_Fine-Grained_Structured_Sparsity_for_Image_Restoration_CVPR_2022_paper.pdf)]  [[GitHub](https://github.com/JungHunOh/SLS_CVPR2022)]
+
 
  **Cheeun Hong***, Heewon Kim*, Sungyong Baik, Junghun Oh, and Kyoung Mu Lee, "DAQ: Channel-Wise Distribution-Aware Quantization for Deep Image Super-Resolution Networks," Winter Conference on Applications of Computer Vision (**WACV**), 2022.
  [[PDF](https://cv.snu.ac.kr/publication/conf/2022/wacv2022_daq.pdf)] [[GitHub](https://github.com/Cheeun/DAQ-pytorch)] [[YouTube](https://youtu.be/vMVu_Eao9yY)]
