@@ -1,5 +1,6 @@
 title: <p>Cheeun Hong<br>(홍채은)</p>
-logo: https://cv.snu.ac.kr/member/images/cuhong.png
+# logo: https://cv.snu.ac.kr/member/images/cuhong.png
+logo: ./images/cheeun2_20220914.jpg
 description:
 show_downloads: false
 google_analytics: UA-191381811-3
